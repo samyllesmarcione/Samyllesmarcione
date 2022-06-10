@@ -1,4 +1,4 @@
-### Olá, eu sou a Samy 👋
+### Olá, eu sou a Samy{les} 
 
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: ela/dela
@@ -17,9 +17,7 @@
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
-    
-    ##
-    
+##
 <div> 
  <a href="https://discord.gg/Samy_0#8599" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:samylles@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
