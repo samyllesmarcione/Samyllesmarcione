@@ -1,7 +1,7 @@
-### Olá, eu sou a Samy{les} 
+### Olá, eu sou a Samy{les} 🤍✨
 
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: ela/dela
+- I’m currently learning Java 💻
+- Pronouns: ela/dela 😙
 <div align="center">
   <a href="https://github.com/Samyllesmarcione">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samyllesmarcione&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
