@@ -2,7 +2,7 @@
 
 - I'm currently perfecting myself Java 💻
 - Student ADS 📚
-- Pronouns: she/her 😙
+- Pronouns: she/her 🦄
 
 
 <div align="center">
