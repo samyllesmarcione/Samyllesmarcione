@@ -1,4 +1,4 @@
-### Olá, eu sou a Samy{les} 🤍✨
+### Olá, eu sou a Samy[(les)] 🤍✨
 
 - I'm currently perfecting myself Java 💻
 - Pronouns: ela/dela 😙
