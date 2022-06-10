@@ -1,6 +1,6 @@
 ### Olá, eu sou a Samy{les} 🤍✨
 
-- I’m currently learning Java 💻
+- I'm currently perfecting myself Java 💻
 - Pronouns: ela/dela 😙
 <div align="center">
   <a href="https://github.com/Samyllesmarcione">
