@@ -31,7 +31,7 @@
   
  
   
- ![Snake animation](https://github.com/samyllesmarcione/Samyllesmarcione/blob/output/github-contribution-grid-snake.svg)
+ 
   
 
  
