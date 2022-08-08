@@ -9,7 +9,7 @@
  <a href = "mailto:samylles@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samyllesmarcione/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img align="leaft" alt="Gif" height="300" width="1000" style="border-radius:50px;"  src="https://giffiles.alphacoders.com/207/207123.gif">
+<img align="leaft" alt="Gif" height="300" width="800" style="border-radius:50px;"  src="https://giffiles.alphacoders.com/207/207123.gif">
 
 <div align="center">
   <a href="https://github.com/Samyllesmarcione">
